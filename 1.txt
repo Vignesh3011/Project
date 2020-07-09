@@ -1,11 +1,7 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 file1 created u=in uat 
 
 
-=======
-file11
->>>>>>> master
 =======
 file11
 >>>>>>> master
